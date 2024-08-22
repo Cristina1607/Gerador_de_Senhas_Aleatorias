@@ -1,0 +1,21 @@
+
+### .gitignore
+
+```plaintext
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environmen
+
+ Gerador de Senhas Aleatórias em Python
+Descrição: Este projeto consiste na criação de um gerador de senhas seguras usando Python. O gerador combina letras maiúsculas e minúsculas, números e caracteres especiais para criar senhas aleatórias com um comprimento especificado pelo usuário. O comprimento padrão da senha é de 8 caracteres, mas pode ser ajustado conforme necessario. 
+Instruções:
+
+1. Clone o repositório do projeto.
+2. Abra o terminal e navegue até o diretório do projeto.
+3. Execute o script Python para gerar uma senha aleatória.
+4. Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
+Objetivo: O objetivo deste projeto é praticar a manipulação de strings e a geração de valores aleatórios em Python, além de criar uma ferramenta simples e útil para gerar senhas seguras.
