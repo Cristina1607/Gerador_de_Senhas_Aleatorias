@@ -1,0 +1,19 @@
+# Gerador de Senhas Aleatórias
+
+Este projeto é um gerador de senhas aleatórias implementado em Python. Ele cria senhas seguras combinando letras maiúsculas e minúsculas, números e caracteres especiais.
+
+## Funcionalidades
+
+- Gera uma senha aleatória com o comprimento especificado.
+- Utiliza uma combinação de letras, números e caracteres especiais para criar senhas seguras.
+
+## Como usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-de-senhas.git
+2. Navegue até o diretório do projeto:
+cd gerador-de-senhas
+3. Execute o script Python:
+python gerar_senha.py
