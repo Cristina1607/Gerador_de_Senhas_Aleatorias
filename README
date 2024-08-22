@@ -17,3 +17,12 @@ Este projeto é um gerador de senhas aleatórias implementado em Python. Ele cri
 cd gerador-de-senhas
 3. Execute o script Python:
 python gerar_senha.py
+4. O programa gerará uma senha aleatória com o comprimento padrão de 8 caracteres. Você pode especificar um comprimento diferente passando um argumento para a função gerar_senha().
+gerar_senha(12)  # Gera uma senha com 12 caracteres
+Requisitos
+Python 3.x
+Contribuições
+Se você tiver ideias para melhorar o gerador de senhas ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
