@@ -12,7 +12,7 @@ Este projeto é um gerador de senhas aleatórias implementado em Python. Ele cri
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerador-de-senhas.git
+   git clone https://github.com/Cristina1607/gerador-de-senhas.git
 2. Navegue até o diretório do projeto:
 cd gerador-de-senhas
 3. Execute o script Python:
